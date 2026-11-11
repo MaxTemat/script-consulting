@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://maxtemat.github.io/company-website/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/logo-entreprise.png</image:loc>
+      <image:title>Logo Script Consulting</image:title>
+      <image:caption>Logo officiel de Script Consulting, consultant IT Odoo à Douala</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/logo-entreprise-horizontal.png</image:loc>
+      <image:title>Logo horizontal Script Consulting</image:title>
+      <image:caption>Logo horizontal de Script Consulting avec le slogan Transcendons les limites avec le Script</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/logo-entreprise-slogan.png</image:loc>
+      <image:title>Logo Script Consulting avec slogan</image:title>
+      <image:caption>Logo Script Consulting accompagné du slogan de l'entreprise</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/banniere-script-consulting.jpg</image:loc>
+      <image:title>Bannière Script Consulting</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/tableau-de-bord-odoo.jpg</image:loc>
+      <image:title>Tableau de bord Odoo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/pilotage-5-chiffres-cles.jpg</image:loc>
+      <image:title>5 chiffres clés pour diriger son entreprise</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/pilotage-chiffres-du-jour.jpg</image:loc>
+      <image:title>Des chiffres du jour pour décider</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maxtemat.github.io/company-website/images/services.jpg</image:loc>
+      <image:title>Domaines couverts par Odoo</image:title>
+    </image:image>
+  </url>
+</urlset>
